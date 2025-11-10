@@ -1,0 +1,5 @@
+{
+  "name": "Facebook AI Engagement Assistant",
+  "description": "An AI assistant that analyzes Facebook posts related to tech, coding, or design, and generates helpful, human-like comments after receiving user permission.",
+  "requestFramePermissions": []
+}
